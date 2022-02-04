@@ -1,3 +1,3 @@
 # ReactDemos
  
-This repo is the sign and first step of learning React.
+This repo is the sign and first step that I'm learning React.
