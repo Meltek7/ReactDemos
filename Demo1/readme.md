@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/48786969/152544165-7308bafe-f38d-478e-bfd0-085df0879120.png)
+
+
+
+//--
 Bu fonksiyon "async" olarak tanımlanmalı ve default olarak dışa aktarılmalıdır. Fonksiyonun içindeki asenkron fonksiyonlar "await" ile tanımlanmalıdır.
 
 Fonksiyon Number tipinde tek parametre alır. Bu parametre user id'yi belirtir.
